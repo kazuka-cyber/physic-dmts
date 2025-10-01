@@ -12,7 +12,7 @@ export default function Home() {
             width="800"
             height="600"
             allowfullscreen
-            className="w-[100%] lg:h-[100%] rounded-[20px]"
+            className="w-[100%] lg:h-[100%] rounded-[20px] p-2"
           ></iframe>
         </div>
       </div>
