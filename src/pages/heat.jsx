@@ -62,18 +62,18 @@ export default function Home() {
           {/* Image Grid */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 px-4 mb-6">
             <Link href="/heat1">
-              <h1 className="font-semibold text-center mb-2">Хөвөх чадвар</h1>
+              <h1 className="font-semibold text-center mb-2">тархалт</h1>
               <img src="./dulaan1.png" alt="" className="w-full rounded" />
             </Link>
             <Link href="/heat2">
               <h1 className="font-semibold text-center mb-2">
-                Төслийн мэдээллийн лаборатори
+                Хийн танилцуулга
               </h1>
               <img src="./dulaan2.png" alt="" className="w-full rounded" />
             </Link>
             <Link href="/heat3">
               <h1 className="font-semibold text-center mb-2">
-                Кеплерийн хуулиуд
+                Хийн шинж чанарууд
               </h1>
               <img src="./dulaan3.png" alt="" className="w-full rounded" />
             </Link>
