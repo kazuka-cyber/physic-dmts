@@ -24,7 +24,7 @@ export default function Home() {
                     className="carousel-item relative w-full h-full"
                   >
                     <img
-                      src="https://image.slidesharecdn.com/67-140317130457-phpapp01/85/pizik-4-320.jpg"
+                      src="hudulguun1.png"
                       className="w-full object-cover"
                       alt="Генератор"
                     />
@@ -38,7 +38,7 @@ export default function Home() {
                   </div>
                   <div id="slide2" className="carousel-item relative w-full">
                     <img
-                      src="/energy2.png"
+                      src="hudulguun2.png"
                       className="w-full object-cover"
                       alt="Соронзон ба цахилгаан соронзон"
                     />
@@ -55,7 +55,7 @@ export default function Home() {
                   </div>
                   <div id="slide3" className="carousel-item relative w-full">
                     <img
-                      src="/energy3.png"
+                      src="hudulguun3.png"
                       className="w-full object-cover"
                       alt="Фарадей лаборатори"
                     />
@@ -66,11 +66,44 @@ export default function Home() {
                       ❮
                     </a>
                     <a
-                      href="#slide1"
+                      href="#slide4"
                       className="absolute right-4 top-1/2 transform -translate-y-1/2 btn btn-circle"
                     >
                       ❯
                     </a>
+                  </div>
+                  <div id="slide3" className="carousel-item relative w-full">
+                    <img
+                      src="hudulguun4.png"
+                      className="w-full object-cover"
+                      alt="Фарадей лаборатори"
+                    />
+                    <a
+                      href="#slide3"
+                      className="absolute left-4 top-1/2 transform -translate-y-1/2 btn btn-circle"
+                    >
+                      ❮
+                    </a>
+                    <a
+                      href="#slide5"
+                      className="absolute right-4 top-1/2 transform -translate-y-1/2 btn btn-circle"
+                    >
+                      ❯
+                    </a>
+                  </div>
+                  <div id="slide3" className="carousel-item relative w-full">
+                    <img
+                      src="hudulguun5.png"
+                      className="w-full object-cover"
+                      alt="Фарадей лаборатори"
+                    />
+                    <a
+                      href="#slide4"
+                      className="absolute left-4 top-1/2 transform -translate-y-1/2 btn btn-circle"
+                    >
+                      ❮
+                    </a>
+                    
                   </div>
                 </div>
               </div>
